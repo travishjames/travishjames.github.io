@@ -2,6 +2,7 @@
 layout: post
 title: Week 1 at Metis: Blazing Saddles
 
+
 ---
 
 The first week of the boot camp is in the books, and it's off to a scorching start. While 
