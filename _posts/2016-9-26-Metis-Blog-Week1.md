@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 1 at Metis Blazing Saddles
+title: Week 1 at Metis\: Blazing Saddles
 
 
 ---
