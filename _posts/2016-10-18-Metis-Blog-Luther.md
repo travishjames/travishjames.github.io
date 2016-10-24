@@ -30,9 +30,9 @@ With that being said, there are some limitations to the predictive model specifi
 
 Some general thoughts on Project Luther and the bootcamp as a whole thus far:
 
-*The first individual project was a bit of a reality check, but was a very rewarding experience.
-*Presenting a project that is your own piece of work is really fun and beneficial. The feedback you get on an individualized piece of work is very constructive, and should be welcomed at any point in time.
-*The pace of the program is picking up and the amount of material we've already covered is piling up. Metis has really started to live up to its title of being a bootcamp.
-*When working on a project with a lot of intermediate steps, it is helpful to assign yourself mini deadlines.
-*Trying to get work done on weekends with college and NFL football on is tough. Finishing my work during the week has allowed me to explore San Francisco and really destress during the weekends. This is a practice I hope to keep up, as the city has so much to offer and is a blast to explore.
-*The NBA season is right around the corner, so let the fanfare and friendly trash talk begin!
+* The first individual project was a bit of a reality check, but was a very rewarding experience.
+* Presenting a project that is your own piece of work is really fun and beneficial. The feedback you get on an individualized piece of work is very constructive, and should be welcomed at any point in time.
+* The pace of the program is picking up and the amount of material we've already covered is piling up. Metis has really started to live up to its title of being a bootcamp.
+* When working on a project with a lot of intermediate steps, it is helpful to assign yourself mini deadlines.
+* Trying to get work done on weekends with college and NFL football on is tough. Finishing my work during the week has allowed me to explore San Francisco and really destress during the weekends. This is a practice I hope to keep up, as the city has so much to offer and is a blast to explore.
+* The NBA season is right around the corner, so let the fanfare and friendly trash talk begin!
