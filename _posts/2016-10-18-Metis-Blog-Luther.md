@@ -11,7 +11,7 @@ The goal of the project is fairly simple. Using online data from any number of f
 The business case for the project was also simple to come up with. A more positive public sentiment for a film leads to more tickets sold at the box office, more rentals and purchases of the film, the possibility of franchising and signing advertising deals, and also furthers the reputation of the actors and director of the film. The real challenge was making the model as accurate as possible, and doing so without overfitting. After scraping all of the relevant features from the IMDB website, I had data on 720 films to build my model and test which regressors are statistically significant. I started out by visualizing the data, and noticed a couple features seemed to have a logarithmic relationship with IMDB user score. Specifically, number of IMDB user reviews and domestic total gross revenue appear to have a nonlinear relationship with the target.
 
 <img src='{{../images/gross_rev_log.png}}' alt='{{Young D.H.}}' height = '42' width='42'>
-
+fdfdf
 [[images/gross_rev_log.png]]
 
 [[images/imdb_reviews_log.png]]
