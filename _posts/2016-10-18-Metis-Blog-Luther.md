@@ -10,9 +10,9 @@ The goal of the project is fairly simple. Using online data from any number of f
 
 The business case for the project was also simple to come up with. A more positive public sentiment for a film leads to more tickets sold at the box office, more rentals and purchases of the film, the possibility of franchising and signing advertising deals, and also furthers the reputation of the actors and director of the film. The real challenge was making the model as accurate as possible, and doing so without overfitting. After scraping all of the relevant features from the IMDB website, I had data on 720 films to build my model and test which regressors are statistically significant. I started out by visualizing the data, and noticed a couple features seemed to have a logarithmic relationship with IMDB user score. Specifically, number of IMDB user reviews and domestic total gross revenue appear to have a nonlinear relationship with the target.
 
-<img src='{{/images/gross_rev_log.png}}' alt='{{Young D.H.}}' height = '42' width='42'>
-
+![Gross Revenue Log Plot](/images/gross_rev_log.png){:width='500', :height='300'}
 ![Gross Revenue Log Plot](/images/imdb_reviews_log.png){:width='500', :height='300'}
+
 
 After incorporating these nonlinearities in the model, I ran some naive linear regressions to pick out which variables were significant predictors. As it turns out, all of my numerical feature variables (Metacritic score, runtime, log of number of reviews, log of domestic total gross revenue, Oscar wins, and budget) turned out to be statistically significant regressors at the 10% level of significance. I incorporated the categorical features as fixed effects by transforming them into a series of dummy variables, and whittled them down until all were significant at the 5% level of significance.
 
