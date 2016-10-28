@@ -26,7 +26,7 @@ When taking a closer look at the performance of the ridge regression, it seems t
 
 ![Predicted vs Actual Scores](/images/predicted_vs_actual.png){:width='700', :height='500' :x='700'}
 
-<img src='/images/resid_hist.png' style='width:500px; height:300px;' align='right'/>
+<img src='/images/resid_hist.png' style='width:500px; height:300px;' align='middle'/>
 
 ![Residuals Histogram](/images/resid_hist.png){:width='500', :height='300'}
 
