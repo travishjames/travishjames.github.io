@@ -26,7 +26,8 @@ When taking a closer look at the performance of the ridge regression, it seems t
 
 ![Predicted vs Actual Scores](/images/predicted_vs_actual.png){:width='700', :height='500'}
 
-![Residuals Histogram](/images/resid_hist.png){:width='500', :height='300'}
+![Residuals Histogram](/images/resid_hist.png){:width='500', :height='300', 
+:style={display:block;margin:auto;}}
 
 With that being said, there are some limitations to the predictive model specified. As I just mentioned, the model tends to over predict scores for poorer performing films. This could be a symptom of the fact that I scraped films in descending order of score by genre from the IMDB website. A remedy for this would be to scrape films with a wider range of user scores, and allow for a more robust training of the model. This would also increase sample size, which wasn't small by any means, but could have been made larger to improve performance. Also, there may be a simultaneity issue since the number of IMDB use reviews and the user scores could be self reinforcing. Therefore, it is difficult to tease out the direction of causality between these two variables, and if the simultaneity does exist it could bias all of the coefficient values in the model. One remedy for this could be to use an instrumental variable on number of user reviews, and try to isolate the variation in this feature that influences user score. Either way, these are speculative considerations, and it remains to be seen if these potential improvements would increase the predictive capabilities of an already well performing model.
 
