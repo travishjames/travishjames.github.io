@@ -24,7 +24,7 @@ After completing the feature selection process, the next step was to run several
 
 When taking a closer look at the performance of the ridge regression, it seems to perform fairly weel for movies that are rated highly, but performs less well for more poorly reviewed films. As we can see in the first plot below, the actual and predicted user scores hug the 45 degree line reasonably closely, but the predicted values are a bit inflated at lower scoring movies. This is apparent in the second plot below, which shows that the distribution of the residuals is slightly leftward skewed, implying some degree of upward inflation for the predicted scores.
 
-![Predicted vs Actual Scores](/images/predicted_vs_actual.png){:width='700', :height='500' :x='100'}
+![Predicted vs Actual Scores](/images/predicted_vs_actual.png){:width='700', :height='500' :x='700'}
 
 ![Residuals Histogram](/images/resid_hist.png){:width='500', :height='300'}
 
