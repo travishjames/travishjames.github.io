@@ -10,6 +10,7 @@ The first step to this process was building our predictive model. This actually 
 
 The next step was to build our web app to make our models interactive for a potential Lending Club applicant. We utilized a flask app infrastructure, and were able to get a functioning web app that takes input in terms of both user-typed values and drop down selected categorical values. The user input was then fed to our trained models, and would return a response on whether they should expect to be accepted or not. If so, it would also list their expected loan grade. After hours of tweaking our app through a trial and error process, to get a final product that functioned effectively and provided meaningful results was a really gratifying experience.
 
+
 ![Loan App - Accepted](/images/accepted_loan.png){:width='500', :height='300'}
 
 ![Loan App - Rejected](/images/rejected_loan.png){:width='500', :height='300'}
