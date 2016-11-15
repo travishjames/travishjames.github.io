@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project McNulty&#58; Predicting Loan Application Decision and Grade
+title: Predicting Loan Application Decision and Grade Using Lending Club Data
 
 ---
 
