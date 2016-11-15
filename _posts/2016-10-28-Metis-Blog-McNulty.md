@@ -10,12 +10,12 @@ The first step to this process was building our predictive model. This actually 
 
 The next step was to build our web app to make our models interactive for a potential Lending Club applicant. We utilized a flask app infrastructure, and were able to get a functioning web app that takes input in terms of both user-typed values and drop down selected categorical values. The user input was then fed to our trained models, and would return a response on whether they should expect to be accepted or not. If so, it would also list their expected loan grade. After hours of tweaking our app through a trial and error process, to get a final product that functioned effectively and provided meaningful results was a really gratifying experience.
 
-![Loan App - Accepted](/images/accepted_loan.png){:width='500', :height='300'}
+![Loan App - Accepted](/images/accepted_loan.png){:width='700', :height='500'}
 
-![Loan App - Rejected](/images/rejected_loan.png){:width='500', :height='300'}
+![Loan App - Rejected](/images/rejected_loan.png){:width='700', :height='500'}
 
 The last step was to incorporate an interactive visualization using the d3.js library. We ended up creating a map to show geospatial state-level loan data. Specifically, we showed the percentage of applicants from each state that were accepted, their average debt to income ratio, and the average amount they applied for. We incorporated a hover over feature so that users of the app could simply scroll their mouse pointer over the state to get a window of all of these statistics. Lastly, we color coated the states in different shades of green depending of the percentage of accepted applicants. The higher the percent that were accepted, the darker the shade of green. This was to allow a visual aid to the users of the app for digesting which states are hot spots for lending club loans.
 
-![U.S. d3.js Loan Statistics Map](/images/d3_us_map.png){:width='500', :height='300'}
+![U.S. d3.js Loan Statistics Map](/images/d3_us_map.png){:width='700', :height='500'}
 
 While McNulty presented a new set of challenges, especially in terms of the web development components of flask and d3.js, overall it was a very enlightening experience into the process of designing an interactive product. Given that our classification models performed significantly better than random guessing, and we were able to build an app that provided useful insights into the world of peer to peer loan applications, I'm satisfied with the end result of McNulty. With that being said, I'm excited to see what's in store for the coming weeks, and am looking forward to the new challenges, techniques and tools that lie ahead.
