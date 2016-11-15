@@ -12,7 +12,7 @@ The next step was to build our web app to make our models interactive for a pote
 
 ![Loan App - Accepted](/images/accepted_loan.png){:width='500', :height='300'}
 
-![Loan App - Rejected](/images/imdb_reviews_log.png){:width='500', :height='300'}
+![Loan App - Rejected](/images/rejected_loan.png){:width='500', :height='300'}
 
 The last step was to incorporate an interactive visualization using the d3.js library. We ended up creating a map to show geospatial state-level loan data. Specifically, we showed the percentage of applicants from each state that were accepted, their average debt to income ratio, and the average amount they applied for. We incorporated a hover over feature so that users of the app could simply scroll their mouse pointer over the state to get a window of all of these statistics. Lastly, we color coated the states in different shades of green depending of the percentage of accepted applicants. The higher the percent that were accepted, the darker the shade of green. This was to allow a visual aid to the users of the app for digesting which states are hot spots for lending club loans.
 
