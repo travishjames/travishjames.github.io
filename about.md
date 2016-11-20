@@ -8,7 +8,15 @@ I am a data scientist who is passionate about solving problems and extracting in
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I also love the great outdoors and stretching my legs and brain in the following ways:
+
+*Hiking
+*Cycling
+*Traveling
+*Basketball
+*Swimming
+*Writing
+*Speaking Spanish
 
 ### Contact me
 
