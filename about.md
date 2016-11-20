@@ -10,13 +10,13 @@ I am a data scientist who is passionate about solving problems and extracting in
 
 I also love the great outdoors and stretching my legs and brain in the following ways:
 
-*Hiking
-*Cycling
-*Traveling
-*Basketball
-*Swimming
-*Writing
-*Speaking Spanish
+* Hiking
+* Cycling
+* Traveling
+* Basketball
+* Swimming
+* Writing
+* Speaking Spanish
 
 ### Contact me
 
